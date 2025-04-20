@@ -240,4 +240,4 @@ const runBatch = async (BATCH_COUNT) => {
   console.log(`✅ Done! Sent ${count} responses.`);
 };
 
-runBatch(20);
+runBatch(5);
