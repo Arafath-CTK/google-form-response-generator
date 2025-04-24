@@ -152,7 +152,7 @@ const sampleData = {
   ],
   q2: [
     // "Plus Two",
-    "Under Graduate",
+    // "Under Graduate",
     "Post Graduate",
     "PG & Above",
   ],
@@ -161,7 +161,12 @@ const sampleData = {
   q5: ["Academic", "Administration", "Examination", "Other"],
   q6: ["Very familar", "Somewhat familier", "Not familiar at all"],
   q7: ["Yes", "No", "Not applicable"],
-  q8: ["Daily", "Weekly", "Monthly", "Rarely"],
+  q8: [
+    "Daily",
+    // "Weekly",
+    "Monthly",
+    "Rarely",
+  ],
   q9: ["Very easy", "Easy", "Neutral", "Difficult"],
   q10: ["Always", "Sometimes", "Rarely", "Never"],
   q11: ["Very reliable", "Reliable", "Neutral", "Unreliable"],
